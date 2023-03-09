@@ -1,0 +1,33 @@
+package first;
+
+public class First {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       //write integer in java
+		int b= 6;
+       System.out.println(b);
+		//float in java
+       float a= 3.14f;
+       System.out.println(a);
+       //boolean
+       boolean happy =false;
+       System.out.println(happy);
+       //string
+       String k ="crying";
+       System.out.println(k);
+     //flow statement
+   	//if statement
+   	if(20>5) {
+   		System.out.println("20 is greater than 5");}
+   	//if else statement
+   	int x= 30;
+   	int y= 20;
+   	if(x>y) {
+   		System.out.println("y is greater than x");
+   	}else {
+   		System.out.println("x is greater than y");}
+   			
+       
+	}
+}
