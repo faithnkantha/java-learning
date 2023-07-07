@@ -1,1 +1,11 @@
-
+✔A method is a block of code thats run when executed.
+✔Method is used to perform certain tasks and also known as functions.
+    ✔✔myMethod()- is a function
+✔Methods can have parameters that are used to pass values or data.
+✔Methods must be declared inside a class 
+✔Parameters act like as avariable inside a method
+✔Parameters are specified inside parathesis.
+    ✔✔myMethod(3)-3 is a parameter
+✔Note that when you are working with multiple parameters, the method call must have the same number of arguments as there are parameters, and the arguments must be passed in the same order.
+✔✔more on methods?.... click link below👇👇
+https://www.w3schools.com/java/java_methods.asp
