@@ -10,11 +10,14 @@
 ✔Note that when you are working with multiple parameters, the method call must have the same number of arguments as there are parameters, and the arguments must be passed in the same order.
 ✔✔more on methods?.... click link below👇👇
 https://www.w3schools.com/java/java_methods.asp
+CHECK OUT CODE EXAMPLE FOR METHOD:👇
 
 METHOD OVERLOADING👌
 ✔With method overloading, multiple methods can have the same name with different parameters:
 ✔Instead of defining two methods that should do the same thing, it is better to overload one.🙂
 ✔multiple methods can have the same name as long as the number and/or type  of parameters are different
+CHECK OUT CODE EXAMPLE FOR METHOD OVERLOAD:👇
+https://github.com/faithnkantha/java-learning/blob/main/Methods/Methodoverloading.java
 
     JAVA SCOPE.🙂
 ✔In Java, variables are only accessible inside the region they are created. This is called scope.
