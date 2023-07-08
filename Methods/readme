@@ -8,19 +8,24 @@
 ✔Parameters are specified inside parathesis.
     ✔✔myMethod(3)-3 is a parameter
 ✔Note that when you are working with multiple parameters, the method call must have the same number of arguments as there are parameters, and the arguments must be passed in the same order.
-✔✔more on methods?.... click link below👇👇
+MORE ON METHODS:👇
 https://www.w3schools.com/java/java_methods.asp
 CHECK OUT CODE EXAMPLE FOR METHOD:👇
 https://github.com/faithnkantha/java-learning/blob/main/Methods/App.java
 OR:👇
-
+https://github.com/faithnkantha/java-learning/blob/main/Methods/Main.java
 
 METHOD OVERLOADING👌
 ✔With method overloading, multiple methods can have the same name with different parameters:
 ✔Instead of defining two methods that should do the same thing, it is better to overload one.🙂
 ✔multiple methods can have the same name as long as the number and/or type  of parameters are different
+
 CHECK OUT CODE EXAMPLE FOR METHOD OVERLOAD:👇
 https://github.com/faithnkantha/java-learning/blob/main/Methods/Methodoverloading.java
+
+MORE ON METHOD OVERLOADING:
+https://www.w3schools.com/java/java_methods_overloading.asp
+
 
     JAVA SCOPE.🙂
 ✔In Java, variables are only accessible inside the region they are created. This is called scope.
@@ -31,5 +36,7 @@ https://github.com/faithnkantha/java-learning/blob/main/Methods/Methodoverloadin
 ✔Variables declared inside blocks of code are only accessible by the code between the curly braces, which follows the line in which the variable was declared
 ✔A block of code may exist on its own or it can belong to an if, while or for statement. In the case of for statements, variables declared in the statement itself are also available inside the block's scope.
     
+MORE ON SCOPE:
+https://www.w3schools.com/java/java_scope.asp
 
      
