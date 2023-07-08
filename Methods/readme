@@ -1,12 +1,29 @@
       METHODS IN JAVA😊
-✔A method is a block of code thats run when executed.
+✔A method is a block of code thats run when executed.🏃‍♀️
 ✔Method is used to perform certain tasks and also known as functions.
     ✔✔myMethod()- is a function
 ✔Methods can have parameters that are used to pass values or data.
-✔Methods must be declared inside a class 
-✔Parameters act like as avariable inside a method
+✔Methods must be declared inside a class 📩
+✔Parameters act like as avariable inside a method🔠
 ✔Parameters are specified inside parathesis.
     ✔✔myMethod(3)-3 is a parameter
 ✔Note that when you are working with multiple parameters, the method call must have the same number of arguments as there are parameters, and the arguments must be passed in the same order.
 ✔✔more on methods?.... click link below👇👇
 https://www.w3schools.com/java/java_methods.asp
+
+METHOD OVERLOADING👌
+✔With method overloading, multiple methods can have the same name with different parameters:
+✔Instead of defining two methods that should do the same thing, it is better to overload one.🙂
+✔multiple methods can have the same name as long as the number and/or type  of parameters are different
+
+    JAVA SCOPE.🙂
+✔In Java, variables are only accessible inside the region they are created. This is called scope.
+✔✔METHOD SCOPE🙂
+✔Variables declared directly inside a method are available anywhere in the method following the line of code in which they were declared:
+✔✔BLOCK SCOPE🙂
+✔A block of code refers to all of the code between curly braces {}.💯
+✔Variables declared inside blocks of code are only accessible by the code between the curly braces, which follows the line in which the variable was declared
+✔A block of code may exist on its own or it can belong to an if, while or for statement. In the case of for statements, variables declared in the statement itself are also available inside the block's scope.
+    
+
+     
