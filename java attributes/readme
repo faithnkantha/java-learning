@@ -1,1 +1,11 @@
+        JAVA ATTRIBUTES😊
+class attributes are variables within a class
+Another term for class attributes is fields.
 
+
+Accessing Attributes
+You can access attributes by creating an object of the class, and by using the dot syntax (.)
+
+The final keyword is useful when you want a variable to always store the same value, like PI (3.14159...).
+
+If you create multiple objects of one class, you can change the attribute values in one object, without affecting the attribute values in the other:
